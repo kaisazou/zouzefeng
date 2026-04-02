@@ -1,8 +1,4 @@
-# AI 近年发展时间轴（可编辑代码）
-
-复制下方代码到 [Mermaid Live Editor](https://mermaid.live/) 或任何支持 Mermaid 的 Markdown 环境，修改代码后图表会自动更新。
-
-## Mermaid 代码
+# AI 近年发展时间轴
 
 ```mermaid
 timeline
